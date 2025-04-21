@@ -1,0 +1,6 @@
+[submodule "angular"]
+	path = angular
+	url = https://github.com/radomirovicvladimir/Hylastix-frontend
+[submodule "spring-boot"]
+	path = spring-boot
+	url = https://github.com/radomirovicvladimir/Hylastix-backend
